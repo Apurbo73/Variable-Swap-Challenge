@@ -1,5 +1,4 @@
 ﻿# Variable-Swap-Challenge
-Sure! Let's go through the program step by step to understand how it swaps two variables and prints them:
 
 ---
 
