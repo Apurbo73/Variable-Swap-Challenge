@@ -71,4 +71,3 @@ printf("%d %d", a, b);
 
 ---
 
-Let me know if you want to see how to [swap without using a temporary variable](f) or using [XOR bitwise swap](f).
